@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Tebak Hewan</string>
+    <string name="action_settings">Pengaturan Aplikasi</string>
+
+    <string name="teks_pertanyaan">NAVIGASI : Apa nama dari hewan berikut ? Ini soal ke-%1$d dari total %2$d.</string>
+
+    <string name="jumlah_dari_pilihan_tebakan_pada_opsi">JUMLAH PILIHAN JAWABAN</string>
+    <string name="jumlah_dari_pilihan_tebakan_deskripsi">Tampilkan 2, 4, 6 atau 8 pilihan jawaban.</string>
+
+    <string name="jenis_dari_hewan_pada_opsi">JENIS HEWAN</string>
+    <string name="jenis_dari_hewan_deskripsi">Jenis hewan yang dimasukkan ke dalam soal.</string>
+
+    <string name="pilihan_warna_background_pada_opsi">WARNA BACKGROUND</string>
+    <string name="pilihan_warna_background_deskripsi">Pilih salah satu dari warna berikut untuk dijadikan warna background.</string>
+    <string name="warna_defaultnya_hitam">Hitam</string>
+
+    <string name="pilihan_jenis_font_pada_opsi">JENIS FONT</string>
+    <string name="pilihan_jenis_font_deskripsi">Pilih salah satu dari font berikut untuk dijadikan teks.</string>
+    <string name="jenis_font_defaultnya_wonderbar">Wonderbar Demo.otf</string>
+
+    <string name="header_pada_activity_settings">Pengaturan Aplikasi</string>
+    <string name="nilai_hasil_bertipe_String">Dari seluruh tebakan yang diberikan, kamu memperoleh rasio %2$.02f%% dalam memilih jawaban yang benar.</string>
+
+    <string name="reset_tebak_hewan">MAIN LAGI</string>
+
+    <string name="pesan_jika_jawaban_salah">SALAH !</string>
+
+    <string name="jenis_hewan_defaultnya_HEWAN_BUAS">HEWAN_BUAS</string>
+
+    <string name="toast_message">Kamu harus memilih dari salah satu jenis hewan yang ada. Default-nya adalah HEWAN BUAS</string>
+    <string name="change_message">Perubahan berhasil disimpan.</string>
+</resources>

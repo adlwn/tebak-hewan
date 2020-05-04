@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+    <string-array name="number_of_guesses_list">
+
+        <item>2</item>
+        <item>4</item>
+        <item>6</item>
+        <item>8</item>
+
+    </string-array>
+
+
+    <string-array name="type_of_animals">
+
+
+        <item>HEWAN BUAS</item>
+        <item>HEWAN JINAK</item>
+
+    </string-array>
+
+
+    <string-array name="type_of_animals_values">
+
+
+        <item>HEWAN_BUAS</item>
+        <item>HEWAN_JINAK</item>
+
+    </string-array>
+
+
+    <string-array name="colors">
+
+
+        <item>Putih</item>
+        <item>Hitam</item>
+        <item>Hijau</item>
+        <item>Merah</item>
+        <item>Biru</item>
+        <item>Kuning</item>
+
+
+
+
+    </string-array>
+
+
+
+    <string-array name="fonts">
+
+
+        <item>Fontleroy Brown</item>
+        <item>Wonderbar Demo</item>
+
+    </string-array>
+
+
+    <string-array name="fonts_values">
+
+        <item>Fontleroy Brown.ttf</item>
+        <item>Wonderbar Demo.otf</item>
+
+    </string-array>
+
+
+
+</resources>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <ListPreference
+        android:entries="@array/number_of_guesses_list"
+        android:entryValues="@array/number_of_guesses_list"
+        android:key="pengaturan_jumlahDariTebakan"
+        android:title="@string/jumlah_dari_pilihan_tebakan_pada_opsi"
+        android:summary="@string/jumlah_dari_pilihan_tebakan_deskripsi"
+        android:persistent="true"
+        android:defaultValue="4"
+        ></ListPreference>
+
+
+    <MultiSelectListPreference
+        android:entries="@array/type_of_animals"
+        android:entryValues="@array/type_of_animals_values"
+        android:key="pengaturan_jenisDariHewan"
+        android:title="@string/jenis_dari_hewan_pada_opsi"
+        android:summary="@string/jenis_dari_hewan_deskripsi"
+        android:persistent="true"
+        android:defaultValue="@array/type_of_animals_values"></MultiSelectListPreference>
+
+
+
+    <ListPreference
+        android:entries="@array/colors"
+        android:entryValues="@array/colors"
+        android:key="pengaturan_warnaDariBackground"
+        android:title="@string/pilihan_warna_background_pada_opsi"
+        android:summary="@string/pilihan_warna_background_deskripsi"
+        android:persistent="true"
+        android:defaultValue="@string/warna_defaultnya_hitam"
+        ></ListPreference>
+
+
+
+    <ListPreference
+        android:entries="@array/fonts"
+        android:entryValues="@array/fonts_values"
+        android:key="pengaturan_jenisFont"
+        android:title="@string/pilihan_jenis_font_pada_opsi"
+        android:summary="@string/pilihan_jenis_font_deskripsi"
+        android:persistent="true"
+        android:defaultValue="@string/jenis_font_defaultnya_wonderbar">
+    </ListPreference>
+
+
+
+
+</PreferenceScreen>
